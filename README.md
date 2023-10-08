@@ -11,7 +11,7 @@ The notebook culminates in a visualization that compares the final balances of e
 1. **Model Definitions**: The code starts by defining the BCC model to value European options under stochastic volatility and jumps.
 2. **Moneyness Discussion**: A note on the relatively small vega and gamma values and their implications.
 3. **Hedging Strategies Overview**: A broad overview of each strategy and its calculations, adjusting for transaction costs and dynamic market conditions.
-4. **Taleb's Shadow Gamma**: A discussion on shadow gamma, a term introduced by Nassim Taleb.
+4. **Taleb's Shadow Gamma**: A discussion on shadow gamma.
 5. **Conclusion**: Final thoughts on the effectiveness of each strategy and the overall analysis.
 
 ## Additional Resources
