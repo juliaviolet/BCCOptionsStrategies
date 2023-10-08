@@ -3,7 +3,7 @@
 ## Introduction
 This project presents an in-depth exploration of various hedging strategies, primarily focusing on the Bakshi, Cao, and Chen (BCC) model for valuing European options under conditions of stochastic volatility and jumps. Starting with model definitions, the notebook introduces the characteristic functions and option pricing techniques associated with the BCC model.
 
-Utilizing a dataset of option and underlying asset data, the model's application computes various Greeks, such as delta, vega, gamma, and theta, based on changes in the underlying asset's price. Subsequent sections delve into different hedging strategies, evaluating their effectiveness by calculating daily profits and running balances over a specific timeframe. These strategies range from delta hedging variations to approaches like the ratio spread, married put, and short strangle. 
+Utilizing a dataset of options and underlying asset data, the model's application computes various Greeks, such as delta, vega, gamma, and theta, based on changes in the underlying asset's price. Subsequent sections delve into different hedging strategies, evaluating their effectiveness by calculating daily profits and running balances over a specific timeframe. These strategies range from delta hedging variations to approaches like the ratio spread, married put, and short strangle. 
 
 The notebook culminates in a visualization that compares the final balances of each strategy, offering insights into their respective performances.
 
