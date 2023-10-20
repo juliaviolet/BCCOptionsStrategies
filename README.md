@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Authored by Julia Morrison and dated October 2023, this project presents an in-depth exploration of various hedging strategies. The primary focus is on the Bakshi, Cao, and Chen (BCC) model, which values European options under conditions of stochastic volatility and jumps. The notebook introduces characteristic functions, option pricing techniques, and the application of the BCC model to a dataset of options and the underlying asset. Various Greeks, such as delta, vega, gamma, and theta, are computed based on changes in the asset's price. The project delves into different hedging strategies, evaluating their effectiveness and comparing their performances through visualizations.
+This project presents an in-depth exploration of various hedging strategies. The primary focus is on the Bakshi, Cao, and Chen (BCC) model, which values European options under conditions of stochastic volatility and jumps. The notebook introduces characteristic functions, option pricing techniques, and the application of the BCC model to a dataset of options and the underlying asset. Various Greeks, such as delta, vega, gamma, and theta, are computed based on changes in the asset's price. The project delves into different hedging strategies, evaluating their effectiveness and comparing their performances through visualizations.
 
 ## Sections
 
